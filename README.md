@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently taking Software Engineering
 - 💞️ I’m looking to collaborate on any available opportunity
-- 📫 How to reach me : muslihah43@gmail.com
+- 📫 How to reach me : muslihahmustafa02@gmail.com
 
 <!---
 muslihahmustafa/muslihahmustafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
